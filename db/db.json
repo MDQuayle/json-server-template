@@ -5,6 +5,36 @@
       "animal" : "Pig",
       "factoid" : "A pig's squeal can be reach 115 decibels, that’s three whole decibels higher than the sound of a supersonic airliner.",
       "image" : "https://cdn.pixabay.com/photo/2019/03/26/23/02/piglet-4083870_1280.jpg"
+    },
+    {
+      "id": 2,
+      "animal" : "Penguin",
+      "factoid" : "A group of penguins in the water is called a raft but on land they’re called a waddle",
+      "image" : "https://cdn.pixabay.com/photo/2016/11/29/04/53/penguin-1867414_1280.jpg"
+    },
+    {
+      "id": 3,
+      "animal" : "Wolf",
+      "factoid" : "A wolf has 42 teeth.",
+      "image" : "https://cdn.pixabay.com/photo/2012/10/25/23/52/wolf-62898_1280.jpg"
+    },
+    {
+      "id": 4,
+      "animal" : "Tiger",
+      "factoid" : "Tiger stripes are unique to each individual tiger",
+      "image" : "https://cdn.pixabay.com/photo/2016/04/20/23/47/tiger-1342385_1280.jpg"
+    },
+    {
+      "id": 5,
+      "animal" : "Elephant",
+      "factoid" : "Elephants have around 150,000 muscle units in their trunk.",
+      "image" : "https://cdn.pixabay.com/photo/2012/03/04/00/08/safari-21772_1280.jpg"
+    },
+    {
+      "id": 6,
+      "animal" : "Capybara",
+      "factoid" : "A capybara eats it's own feces in the morning, allowing it to digest it's dinner twice",
+      "image" : "https://cdn.pixabay.com/photo/2014/05/18/19/10/capybara-347252_1280.jpg"
     }
     ]
 }
